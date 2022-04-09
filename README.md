@@ -18,7 +18,7 @@ it was written somewhere around autumn 2019 or winter 2019-2020. There is an [on
 
 ### 🐉 ultimate-rpg
 
-After snake came COVID-19 and we went to remote teaching with my pupils. Once we got back to school, we had some spare time and I wrote [the-ultimate-rpg](https://github.com/kosvi/js-experiments/tree/master/ultimate-rpg) for my pupils with my pupils. First version wasn't really playable with phone, so version2 scales better for mobile. Version3 never came out. Still, no real beauty - simply hacked together in couple of hours. Again, [online version](http://www.roskakori.net/tmp/rpg2/) is available at least at the time of writing. 
+After "the Snake" came COVID-19 and we went to remote teaching with my pupils. Once we got back to school, we had some spare time and I wrote [the-ultimate-rpg](https://github.com/kosvi/js-experiments/tree/master/ultimate-rpg) for my pupils with my pupils. First version wasn't really playable with phone, so version2 scales better for mobile. Version3 never came out. Still, no real beauty - simply hacked together in couple of hours. Again, [online version](http://www.roskakori.net/tmp/rpg2/) is available at least at the time of writing. 
 
 
 
