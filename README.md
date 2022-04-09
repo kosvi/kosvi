@@ -64,7 +64,7 @@ I was advancing fast!
 
 ### 🎅 Santas Own CRM
 
-During winter 2021-2022 I took a course called Full Stack Open. At the end of the course there is an optional project work I decided to complete it in full scale. My project was called [Santas-own-CRM](https://github.com/kosvi/Santas_own_CRM). There are many cool things I did in it, even though
+During winter 2021-2022 I took a course called Full Stack Open. At the end of the course there is an optional project work and I decided to complete it in full scale. My project was called [Santas-own-CRM](https://github.com/kosvi/Santas_own_CRM). There are many cool things I did in it, even though
 I was quite new to TypeScript (this is my first ever project done with it). I wrote some final [reflections](https://github.com/kosvi/Santas_own_CRM/blob/master/Docs/summary.md) once the project was "done" (sorry, only in Finnish). I will probably not continue my work with this project, since my time is limited and I already have another project going on...
 
 
