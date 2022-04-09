@@ -24,7 +24,7 @@ After "the Snake" came COVID-19 and we went to remote teaching with my pupils. O
 
 ## Started my studies
 
-At this point, I started my IT-studies at the Haaga-Helia university of applied sciences. I took some programming courses and the end of spring, 
+At this point, I started my IT-studies at the Haaga-Helia university of applied sciences. I took some programming courses at the end of spring, 
 but they didn't give me much at this point. Later I started taking courses from University of Helsinki Open University and they prooved to be
 something that really made me advance in programming along with my Haaga-Helia courses. 
 
